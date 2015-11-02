@@ -1,0 +1,1 @@
+A simple "find the pairs" game for installations of multiple Android handsets.
